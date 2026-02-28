@@ -1,0 +1,1 @@
+# password-strenghth-checker
